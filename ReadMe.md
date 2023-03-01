@@ -1,3 +1,5 @@
+![coder](assets/coder.jpeg "coder")
+
 ### About Me
 
 Hi, I'm Caner Duzenli - an entry-level software developer with a background in 
