@@ -1,6 +1,5 @@
 ![coder](assets/coder.jpeg "coder")
 
-![coder](assets/EnvCode.jpeg "EnvCode")
 
 # Caner Duzenli
 
