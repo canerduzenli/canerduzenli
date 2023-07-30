@@ -2,9 +2,10 @@
 
 # Caner Duzenli
 
-## Software Developer | Amateur Pilot
+## Software Developer 
 
-Hello, I'm Caner Duzenli, a software developer with a rich skill set including JavaScript, Node.js, Python, React, Next.js, C#, and Angular. I'm adept at using both JavaScript and C# for Object-Oriented Programming and leveraging HTML and CSS for creating visually appealing and dynamic web designs. My problem-solving abilities and strong communication skills render me an effective team player. Driven by continuous learning, I'm constantly integrating emerging technologies into my projects to create innovative solutions.
+As an eager software development student, I am skilled in JavaScript, React, MySQL, MVC, .NET, Next.js, C#, Python, HTML/CSS, and object-oriented programming. I also have experience in engineering, which enhances my problem-solving abilities. With proficiency in tools like VSCode, Visual Studio, GitHub, Git, Node.js, Map Box, Firebase, Postman, Apache, XAMPP, and Azure, I'm ready to contribute to a software development team and broaden my technical knowledge in
+a professional environment.
 
 Please feel free to browse through my GitHub profile for a glimpse into my projects or contact me for a deeper dive into my work.
 
