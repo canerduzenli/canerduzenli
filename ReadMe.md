@@ -1,5 +1,7 @@
-![C-Band Logo](assets/logo_Wide%20Banner%20Logo.png "C-Band Digital Innovations")
-
+<p align="center">
+  <img src="assets/logo_Wide%20Banner%20Logo.png#gh-light-mode-only" alt="C-Band Logo Light" width="500"/>
+  <img src="assets/logo_Wide%20Banner%20Logo%20Mailbox%20Dark.png#gh-dark-mode-only" alt="C-Band Logo Dark" width="500"/>
+</p>
 
 # Caner Duzenli  
 
