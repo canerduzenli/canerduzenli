@@ -1,4 +1,4 @@
-![coder](assets/coder.jpeg "coder")
+![C-Band Logo](assets/logo_Wide%20Banner%20Logo.png "C-Band Digital Innovations")
 
 # Caner Duzenli  
 
@@ -16,7 +16,7 @@ At **C-Band Digital Innovations**, I focus on creating digital systems that impr
 
 ---
 
-## Core Skills
+## 🛠 Core Skills
 ![JavaScript](https://img.shields.io/badge/code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=51be8d)
 ![Node.js](https://img.shields.io/badge/code-Node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=51be8d)
 ![Python](https://img.shields.io/badge/code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=51be8d)
@@ -30,7 +30,7 @@ At **C-Band Digital Innovations**, I focus on creating digital systems that impr
 
 ---
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 <a href="https://github.com/canerduzenli">
   <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=canerduzenli&theme=vue&show_icons=true" alt="My GitHub stats" />
 </a>
