@@ -20,10 +20,51 @@ At **C-Band Digital Innovations**, my focus is on creating digital systems that 
 
 ---
 
+## Contact  
+
+<p align="center">
+  <strong style="font-size:18px;">CANER DUZENLI</strong><br/>
+  <span style="font-size:14px; color:#666;">Software Developer | Founder at C-Band Digital Innovations</span>
+</p>
+
+<p align="center">
+  <a href="https://www.cbanddigital.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-cbanddigital.com-546bb2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/caner-d-99238b83/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Caner%20Duzenli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Caner"/>
+  </a>
+  <a href="https://www.linkedin.com/company/c-banddigital/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-C--Band%20Digital%20Innovations-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Company"/>
+  </a>
+</p>
+
+<p align="center" style="font-style:italic; color:#444; font-size:14px;">
+  “Delivering Trust Through Digital Innovation”
+</p>
+
+---
+
 ## Vision & Mission  
 
 - **Vision:** To become a trusted leader in digital innovation, delivering solutions that empower businesses and individuals to thrive in a connected world.  
 - **Mission:** To design and develop secure, scalable, and intelligent platforms that bridge technology with practical applications, ensuring reliability, efficiency, and measurable impact.  
+
+---
+
+## Highlighted Projects  
+
+### 🔹 [C-Band Digital Website](https://www.cbanddigital.com)  
+A professional tech solutions website showcasing services in software development, IT solutions, and digital platforms.  
+
+### 🔹 [GitHub Project: Automation Tool](https://github.com/canerduzenli)  
+An experimental automation system designed to integrate APIs and streamline workflows for small businesses.  
+
+### 🔹 [React / Next.js Components](https://github.com/canerduzenli)  
+Reusable UI components built with **React** and **Next.js**, focusing on scalability and performance.  
 
 ---
 
@@ -46,46 +87,10 @@ At **C-Band Digital Innovations**, my focus is on creating digital systems that 
 
 ---
 
-## 📊 GitHub Statistics  
+## GitHub Statistics  
 
 <p align="center">
   <a href="https://github.com/canerduzenli">
     <img height="205px" src="https://github-readme-stats.vercel.app/api?username=canerduzenli&theme=vue&show_icons=true" alt="My GitHub stats"/>
   </a>
 </p>
-
----
-
-## Contact  
-
-<div style="font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#222; line-height:1.8; max-width:720px;">
-
-  <!-- Name & Title -->
-  <div style="padding-bottom:12px; margin-bottom:22px; border-bottom:3px solid #111331; text-align:center;">
-    <strong style="font-size:20px; color:#111331; letter-spacing:0.6px; display:block;">CANER DUZENLI</strong>
-    <span style="font-size:13px; color:#546bb2; letter-spacing:0.3px;">Software Developer | Founder at C-Band Digital Innovations</span>
-  </div>
-
-  <!-- Contact Card -->
-  <table style="width:100%; border-collapse:collapse; font-size:14px; color:#333; text-align:center;">
-    <tr>
-      <td style="width:100%; padding:14px; background:#fafafa; border:1px solid #e0e0e0;">
-        <div style="font-weight:bold; color:#111331; margin-bottom:4px;">Email</div>
-        <a href="mailto:info@cbanddigital.com" style="color:#546bb2; text-decoration:none; font-weight:500;">info@cbanddigital.com</a>
-      </td>
-    </tr>
-  </table>
-
-  <!-- Websites Bar -->
-  <div style="margin-top:24px; padding:14px 0; border-top:2px solid #e5e5e5; border-bottom:2px solid #e5e5e5; text-align:center; background:#fcfcfc;">
-    <a href="https://www.cbanddigital.com" target="_blank" style="color:#546bb2; text-decoration:none; font-weight:600; font-size:15px;">
-      cbanddigital.com
-    </a>
-  </div>
-
-  <!-- Motto -->
-  <div style="margin-top:24px; font-size:14px; color:#111331; text-align:center; letter-spacing:0.4px; font-style:italic;">
-    “Delivering Trust Through Digital Innovation”
-  </div>
-
-</div>
