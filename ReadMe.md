@@ -1,5 +1,6 @@
 ![C-Band Logo](assets/logo_Wide%20Banner%20Logo.png "C-Band Digital Innovations")
 
+
 # Caner Duzenli  
 
 ## Software Developer | Founder at C-Band Digital Innovations  
